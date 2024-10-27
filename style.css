@@ -323,6 +323,7 @@ section{
     justify-content: center;
     display: flex;
     position: relative;
+    margin-top: 2px;
 }
 
 .contact .titre-text h2{
