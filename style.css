@@ -334,14 +334,15 @@ section{
 }
 
 .contact .titre-text h2{
-    color: #f8d5a3;
+    color: #111;
+    background: #fff;
 }
 
 .contact .titre-text p{
-    color: #f8d5a3;
+    color: #111;
+    background: #fff;
 }
    
-
 .contact .page a{
     color: #000;
     text-decoration: none;
