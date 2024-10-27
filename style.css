@@ -367,6 +367,11 @@ section{
     letter-spacing: 2px;
     transition: 0,5s;
     margin-left: 10px;
+    position: relative;
+}
+
+.btn2:hover{
+    letter-spacing: 4px;
 }
 
 .copyright{
