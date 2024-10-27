@@ -333,8 +333,12 @@ section{
     background-position: center;
 }
 
-.contact a{
-    color: #111;
+.contact .titre-text{
+    color: #000;
+}
+
+.contact .page a{
+    color: #000;
     text-decoration: none;
     text-align: center;
 }
