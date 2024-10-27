@@ -336,11 +336,13 @@ section{
 .contact .titre-text h2{
     color: #111;
     background: #fff;
+    text-transform: uppercase;
 }
 
 .contact .titre-text p{
     color: #111;
     background: #fff;
+    text-transform: uppercase;
 }
    
 .contact .page a{
