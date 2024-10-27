@@ -53,18 +53,6 @@ header{
     font-weight: 700;
 }
 
-.btn-reserve{
-    padding: 10px 20px;
-    background: #f8d5a3;
-    margin-top: -10px;
-    text-transform: uppercase;
-    width: 30%;
-}
-
-.btn-reserve:hover{
-    background: #f8d5a3;
-    transition: ease-out;
-}
 header .navbar li a:hover{
     color: #f7e1cd;
     border-bottom: 2px solid #f7e1cd;
