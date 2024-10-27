@@ -331,6 +331,10 @@ section{
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);
     width: 100%;
     background-position: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
 }
 
 .contact .titre-text h2{
