@@ -172,7 +172,7 @@ section{
 
 .Services{
     margin-top: -100px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .services .titre-text{
@@ -327,13 +327,13 @@ section{
     margin-top: 2px;
 }
 
-.contact .titrenoir h2{
+.contact h2{
     color: #000;
     text-align: center;
 }
    
-.contact .titrenoir p{
-    color: #fff;
+.contact p{
+    color: #000;
     text-decoration: none;
     text-align: center;
 }
