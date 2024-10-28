@@ -444,10 +444,6 @@ header .navbar.active{
     text-align: center;
 }
 
-header .navbar .btn-reserve{
-    margin-top: 5px;
-}
-
 .menutoggle{
     position: relative;
     width: 40px;
