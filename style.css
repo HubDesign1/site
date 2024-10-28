@@ -329,10 +329,11 @@ section{
 
 .contact .titrenoir .titre-text{
     color: #000;
+    text-align: center;
 }
    
 .contact .titrenoir p{
-    color: #000;
+    color: #fff;
     text-decoration: none;
     text-align: center;
 }
