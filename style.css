@@ -65,7 +65,7 @@ header .navbar li a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(image/Design\ sans\ titre.png);
+    background-image: url(image/fond\ accueil.png);
     background-size: cover;
     background-position: center;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);
