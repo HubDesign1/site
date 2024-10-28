@@ -327,7 +327,7 @@ section{
     margin-top: 2px;
 }
 
-.contact.titrenoir{
+.contact.titretext{
     color: #000;
     text-align: center;
 }
@@ -379,11 +379,6 @@ section{
     text-decoration: none;
     font-weight: 600;
     font-style: italic;
-}
-
-.contact .titre-text span{
-    color: #f8d5a3;
-    font-size: 2em;
 }
 
 header.sticky{
@@ -475,7 +470,7 @@ header.sticky .menutoggle{
 }
 
 .row .col50 img{
-    margin-left: -20px;
+    margin-left: 20px;
 }
 
 .contenu p:nth-child(2){
