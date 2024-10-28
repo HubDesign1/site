@@ -474,7 +474,7 @@ header.sticky .menutoggle{
 }
 
 .row .col50 img{
-    margin-left: 0px;
+    margin-left: -20px;
 }
 
 .contenu p:nth-child(2){
