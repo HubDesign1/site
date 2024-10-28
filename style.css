@@ -160,6 +160,7 @@ section{
     height: 300px;
     width: 400px;
     position: relative;
+    margin-right: -50px;
 }
 
 .titre{
