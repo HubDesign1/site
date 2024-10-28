@@ -332,7 +332,13 @@ section{
     text-align: center;
 }
    
-.contact p{
+.contact .titrenoir h2{
+    color: #000;
+    text-decoration: none;
+    text-align: center;
+}
+
+.contact .titrenoir p{
     color: #000;
     text-decoration: none;
     text-align: center;
