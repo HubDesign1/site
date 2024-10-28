@@ -172,6 +172,7 @@ section{
 
 .Services{
     margin-top: -100px;
+    margin-bottom: 10px;
 }
 
 .services .titre-text{
@@ -183,7 +184,6 @@ section{
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 40px;
-    margin-bottom: 10px;
 }
 
 .Services .contenu .box{
@@ -327,11 +327,11 @@ section{
     margin-top: 2px;
 }
 
-.contact .titre-text h2{
-    color: #111;
+.contact .titrenoir .titre-text{
+    color: #000;
 }
    
-.contact .page a{
+.contact .titrenoir a{
     color: #000;
     text-decoration: none;
     text-align: center;
