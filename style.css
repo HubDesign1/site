@@ -68,7 +68,10 @@ header .navbar li a:hover{
     background-image: url(image/Design\ sans\ titre.png);
     background-size: cover;
     background-position: center;
-    
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);
+    background-position: center;
+    align-items: center;
+    position: relative;
 }
 
 .banniere .contenu{
