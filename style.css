@@ -164,6 +164,18 @@ header .navbar li a:hover{
     letter-spacing: 4px;
 }
 
+.banniere .cont{
+    max-width: 80%;
+    text-align: center;
+}
+
+.banniere .cont{
+    color: #000;
+    font-size: 1em;
+    width: 70%;
+    text-transform: capitalize;
+}
+
 section{
     padding: 100px;
 }
