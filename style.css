@@ -103,6 +103,21 @@ header .navbar li a:hover{
     transition: 0,5s;
     margin-left: 10px;
 }
+
+.btn4{
+    font-size: 1em;
+    color: #000;
+    background: #f8d5a3;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    transition: 0,5s;
+    margin-left: 10px;
+}
+
 .btn2{
     font-size: 1em;
     color: #111;
@@ -122,6 +137,10 @@ header .navbar li a:hover{
 }
 
 .btn2:hover{
+    letter-spacing: 4px;
+}
+
+.btn4:hover{
     letter-spacing: 4px;
 }
 
