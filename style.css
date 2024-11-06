@@ -85,6 +85,19 @@ header .navbar li a:hover{
     width: 70%;
     text-transform: capitalize;
 }
+
+.banniere .cont{
+    max-width: 80%;
+    text-align: center;
+}
+
+.banniere .cont{
+    color: #000;
+    font-size: 1em;
+    width: 70%;
+    text-transform: capitalize;
+}
+
 .contenu p:nth-child(2){
     color: #000;
     font-size: 1em;
@@ -144,7 +157,6 @@ header .navbar li a:hover{
     letter-spacing: 2px;
     transition: 0,5s;
     margin-left: 10px;
-    position: relative;
 }
 
 
@@ -162,18 +174,6 @@ header .navbar li a:hover{
 
 .btn5:hover{
     letter-spacing: 4px;
-}
-
-.banniere .cont{
-    max-width: 80%;
-    text-align: center;
-}
-
-.banniere .cont{
-    color: #000;
-    font-size: 1em;
-    width: 70%;
-    text-transform: capitalize;
 }
 
 section{
