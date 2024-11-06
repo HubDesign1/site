@@ -86,18 +86,6 @@ header .navbar li a:hover{
     text-transform: capitalize;
 }
 
-.banniere .cont{
-    max-width: 80%;
-    text-align: center;
-}
-
-.banniere .cont{
-    color: #000;
-    font-size: 1em;
-    width: 70%;
-    text-transform: capitalize;
-}
-
 .contenu p:nth-child(2){
     color: #000;
     font-size: 1em;
