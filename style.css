@@ -66,6 +66,7 @@ header{
 .btn-reserve:hover{
     background-color: #f8d5a3;
     transition: ease-out;
+    color: #000;
 }
 
 header .navbar li a:hover{
