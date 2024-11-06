@@ -272,7 +272,7 @@ section{
 .Services .contenu .box .text h3{
     font-weight: 400px;
 }
-.titre .btn-reserve{
+.navbar .btn-reserve{
     color: #000;
     text-transform: capitalize;
     text-decoration: none;
