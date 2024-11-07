@@ -428,7 +428,7 @@ section{
 }
 
 .parrain .title{
-    max-width: 100%;
+    max-width: 80%;
     text-align: center;
     margin-top: -200px;
 }
@@ -436,7 +436,7 @@ section{
 .parrain.title{
     color: #000;
     font-size: 1em;
-    width: 90%;
+    width: 70%;
     text-transform: capitalize;
 }
 
