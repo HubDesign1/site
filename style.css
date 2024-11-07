@@ -424,6 +424,7 @@ section{
     background-position: center;
     align-items: center;
     position: relative;
+    margin-top: 100px;
 }
 
 .parrain .title{
