@@ -426,12 +426,12 @@ section{
     position: relative;
 }
 
-.parrain .contenu{
+.parrain .title{
     max-width: 80%;
     text-align: center;
 }
 
-.parrain .contenu{
+.parrain.title{
     color: #000;
     font-size: 1em;
     width: 70%;
@@ -447,11 +447,14 @@ section{
     color: #000;
     text-decoration: none;
     text-align: center;
-}
+    font-size: 1.6em;
+    }
 
 .parrain .title h5{
     color: #000;
     text-decoration: none;
+    text-align: center;
+    font-size: 1.4em;
     text-align: center;
 }
 
