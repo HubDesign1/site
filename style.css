@@ -424,13 +424,12 @@ section{
     background-position: center;
     align-items: center;
     position: relative;
-    margin-top: -100px;
 }
 
 .parrain .title{
     max-width: 100%;
     text-align: center;
-    margin-top: -100px;
+    margin-top: -200px;
 }
 
 .parrain.title{
