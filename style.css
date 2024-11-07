@@ -429,6 +429,7 @@ section{
 .parrain .title{
     max-width: 100%;
     text-align: center;
+    margin-top: -100px;
 }
 
 .parrain.title{
