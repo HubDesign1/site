@@ -427,14 +427,14 @@ section{
 }
 
 .parrain .title{
-    max-width: 80%;
+    max-width: 100%;
     text-align: center;
 }
 
 .parrain.title{
     color: #000;
     font-size: 1em;
-    width: 70%;
+    width: 90%;
     text-transform: capitalize;
 }
 
