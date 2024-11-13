@@ -502,6 +502,25 @@ section{
     letter-spacing: 4px;
 }
 
+.btn8{
+    font-size: 1em;
+    color: #000;
+    background: #f8d5a3;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    transition: 0,5s;
+    margin-left: 10px;
+}
+
+
+.btn8:hover{
+    letter-spacing: 4px;
+}
+
 .copyright{
     padding: 20px 40px;
     border-top: 2px solid rgba(0, 0, 0, 0.1);
